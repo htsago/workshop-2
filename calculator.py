@@ -1,2 +1,2 @@
- def addMe(a:int, b:int):
+ def addMe(a:int, b:int)->int:
 	return a + b
