@@ -1,5 +1,5 @@
 # Hello World
-def addMe(a:int, b:int)->int:
+def addme(a:int, b:int)->int:
 	return a + b
 
 
