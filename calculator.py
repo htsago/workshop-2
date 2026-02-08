@@ -8,4 +8,6 @@ def sayHallo:
 
 
 def divMe(a:int, b:int)->float:
-    return a/b
+	if b==0:
+		print("not possible")
+    	return a/b
