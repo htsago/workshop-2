@@ -1,2 +1,6 @@
- def addMe(a:int, b:int)->int:
+def addMe(a:int, b:int)->int:
 	return a + b
+
+
+def sayHallo:
+	return "Hello World!"
